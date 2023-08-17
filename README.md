@@ -158,3 +158,5 @@ sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The M
 > - 🖲️ **[Site "Kodiapps" des Plugins Videos Kodi](https://kodiapps.com/addons-chart)**
 > - 🖲️ **[Site "Iwf1" des plugins videos Kodi](https://iwf1.com/kodi?page=1&sug=video)**
 ></details>
+
+### <li>- [x] 👌 Mettre une star si ça été intéressant✔️ </li>
