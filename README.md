@@ -14,6 +14,9 @@
 ### <li>- [x] EXIGENCES : </li> 
 - Avoir un **[👉 compte premium Alldebrid](https://alldebrid.com/offer/)** **[(👉 Test gratui 2 jourst)](https://alldebrid.com/register/?from=fr)**
 - ☝️Si votre débit Wifi est faible,vos sources vidéos (Films, Séries,Docs, Sports..) ne doivent pas pesés plus de 4Go pour une visualisation fluide ( **[👉Test debits](https://www.google.com/search?q=test+debit&client=opera&hs=NvI&sca_esv=557735838&sxsrf=AB5stBjaxgie-0j9qaBefcf4149h-2-DVQ%3A1692264558761&ei=bujdZM-KLsOXhbIPhK-p8Ao&ved=0ahUKEwjP-Y_fsOOAAxXDS0EAHYRXCq4Q4dUDCA4&uact=5&oq=test+debit&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnRlc3QgZGViaXQyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQFI9ghQAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAOIDBBgAIEGIBgGQBhG6BgYIARABGAg&sclient=gws-wiz-serp)** ).
+- Pour le test si vous ne voulez pas toucher à votre installation Télécharger le clone de Kodi 👉
+**[Wbmc](https://www.wonderbox.tv/wonderbox-tv-media-centre-wbmc/)**
+Ou bien vous avez les Addons de sauvegarde **[Backup](https://github.com/robweber/xbmcbackup)** & **[EzMaintenanceplus](https://github.com/peno64/script.ezmaintenanceplus)** .
 - Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours directement dans vos dossiers "films & Series..".
 - Avoir des liens Url Uptobox/1fichier etc..des sites pour les placer dans le dossier "links" d'Alldebrid pour les Films (c'est pour ceux qui ne maîtrisent pas ça).
 - Avoir des liens "Magnets"  pour les placer dans le dossier "magnets" d'Alldebrid  afin de les utiliser pour les séries d'Alldebrid.
