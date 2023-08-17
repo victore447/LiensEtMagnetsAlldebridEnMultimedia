@@ -93,7 +93,20 @@ la liste des épisodes placer dans Le Dossier  "Magnets" d'Alldebrid en les copi
 séries ajouter dans le dossier magnet d'aldebrid en ligne en s'assurant que les modes d'analyse des dossiers sont sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The Movies Database Python pour les films (Links)).
 - ☝️ sinon c'est La série chinoise "links click" (2021) qui se charge lorsque l'on fait une mise a jour traditionnel.
 
-
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>  <summary><b><u>Cliquer sur l'icone noir pour voir capture d'écrans Kodi ci-dessous:</u></b></summary> 
+>
+>  ![1)Ajout Url Alldebrid pour Series](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/c6d26de6-5388-4208-8ad9-01fddda99aff) 
+>  ![2)Ajout source Series2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/45643203-dcbc-4870-9f08-d1404bacd6d5)
+>  ![3)Ne pas Actualier apres l'ajout du Url pour Series](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/e2d2f4b1-6c49-43e2-bba5-df5db7e3cd77) 
+>  ![4)Mise a jours de la mediathes pour Series](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/8d7c60cd-40c5-4137-a70a-839d2a04f6bd) 
+> ![5)Mise a jours de la mediathes pour Series1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/86a2a71c-1e42-4d5f-bba4-6aaeb6967922)
+>  ![6)Mise a jours de la mediathes pour Series2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/459b5cbf-f06e-44bb-9df8-b03288f3e191)
+>  ![7)Mise a jour changer de mode d'analyse](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/c7f5aeed-9dda-494f-8ad8-5989ecd00324)
+>  ![8)Dossiers Videos (Alldebrid,Films,Series Tv)](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/e7cca0c4-5be7-48b6-b7a3-26e56675e343)
+>
+></details>
 
 ### <li>- [x] 🎬 ETAPE 4: </li>
 
