@@ -75,33 +75,21 @@ dossier (Alldebrid,Films,Series TV)."Links" pour films et "Magnets" pour Series 
 ></details>
 
 ### <li>- [x] 📺 ETAPE 3: </li>
-Comme évoqué plus haut répéter la meme procédure que l’étape 2 mais en ajoutant cette fois si l’url de 
+- Comme évoqué plus haut répéter la meme procédure que l’étape 2 mais en ajoutant cette fois si l’url de 
 votre dossier Alldebrid Pour la mediatheque des séries de kodi.
-
-Si votre médiatheque est vide ajouter l'url Alldebrid du dossier de votre compte en vous rendant sur 
+- Si votre médiatheque est vide ajouter l'url Alldebrid du dossier de votre compte en vous rendant sur 
 kodi,series tv,section des fichiers,ajouter une source.
-
-Les torrents pour magnets sont à prendre sur les sites tel que yggtorrent etc..(capture ecran plus dans rebrique « Exigences ».
-
-
-☝️Ne pas actualiser la médiathqe lorsque kodi le demande (il va recuperer  de mauvais infos Tmdb pour de la série "Links").
-
-
-Avant la mise à jour Vous rendre ensuite dans votre dossier "Alldebrid" que vous venez de Crée puis un appuis long sur "Magnet" 
-un menu contextuel s'ouvre puis cliquer sur "Changer le Mode d"analyse" et Choisir "TMDB TV Shows" evoquer à l'étape 2.
-
-
-Il ne vous reste plus qu'a vous rendre dans votre dossier Series Tv creer puis magnets etc..
+- Les torrents pour magnets sont à prendre sur les sites tel que yggtorrent etc..(capture ecran plus dans rebrique « Exigences ».
+- ☝️Ne pas actualiser la médiathqe lorsque kodi le demande (il va recuperer  de mauvais infos Tmdb pour de la série "Links").
+- Avant la mise à jour Vous rendre ensuite dans votre dossier "Alldebrid" que vous venez de Crée puis un appuis long sur "Magnet" un menu contextuel s'ouvre puis cliquer sur "Changer le Mode d"analyse" et Choisir "TMDB TV Shows" evoquer à l'étape 2.
+- Il ne vous reste plus qu'a vous rendre dans votre dossier Series Tv creer puis magnets etc..
 Dans vos séries que avez ajouter au dossier "Magnets" d'Alldebrid en ligne,faire Un clic long sur chaque série (une par une) 
 puis une fenêtre contextuelle s'ouvre et cliquez sur "Analyser vers la médiathèque" et si une fenêtre s'ouvre en demandant 
-"Saisir le nom de la série tv) Écrire le nom de la série et son année de création (Ex: FUBAR (2023) puis ok (Source themoviedb.org ).
-Voir 📸 joints.
-Une autre fenêtre s'ouvre ensuite pour demander si il faut ignorer ou pas des informations existant localement.
+"Saisir le nom de la série tv) Écrire le nom de la série et son année de création (Ex: FUBAR (2023) puis ok (Source themoviedb.org ).Voir 📸 joints.
+- Une autre fenêtre s'ouvre ensuite pour demander si il faut ignorer ou pas des informations existant localement.
 Moi je les ignore pour conserver mes infos et clique oui.☝️ Là Kodi via le fournisseur d'infos séries "TMDB TV Shows" récupére 
-la liste des épisodes placer dans Le Dossier  "Magnets" d'Alldebrid en les copiant.
-Enfin il n'y à plus qu'à ce rendre dans la médiatheque Kodi des séries pour visionner.
-
-☝️ Il faut effectuer toujours cette méthode pour la mise à jour de la médiathèque kodi pour chaque 
+la liste des épisodes placer dans Le Dossier  "Magnets" d'Alldebrid en les copiant.Enfin il n'y à plus qu'à ce rendre dans la médiatheque Kodi des séries pour visionner.
+- ☝️ Il faut effectuer toujours cette méthode pour la mise à jour de la médiathèque kodi pour chaque 
 séries ajouter dans le dossier magnet d'aldebrid en ligne en s'assurant que les modes d'analyse des dossiers sont sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The Movies Database Python pour les films (Links))
 ☝️ sinon c'est La série chinoise "links click" (2021) qui se charge lorsque l'on fait une mise a jour traditionnel.
 
