@@ -19,6 +19,15 @@
 Ou bien vous avez les Addons de sauvegarde **[Backup](https://github.com/robweber/xbmcbackup)** & **[EzMaintenanceplus](https://github.com/peno64/script.ezmaintenanceplus)** .
 - Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours directement dans vos dossiers "films & Series..".
 - Avoir des liens Url Uptobox/1fichier etc..des sites pour les placer dans le dossier "links" d'Alldebrid pour les Films (c'est pour ceux qui ne maîtrisent pas ça).
+
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>  <summary><b><u>Cliquer sur l'icone noir pour voir capture écrans de l'interface Alldebrid:</u></b></summary>
+>  
+>  ![Liens pour Dossier Films Alldebrid](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/dfd7c5f3-9487-4213-9693-05b1d418e8b7)
+>  ![Magnets pour Dossier Series Tv](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/a31e3b57-6a41-417b-865e-3fb7df974f8a)
+></details>
+  
 - Avoir des liens "Magnets"  pour les placer dans le dossier "magnets" d'Alldebrid  afin de les utiliser pour les séries d'Alldebrid.
 ☝️Voici ci-dessous l'Exemple du type de magnets à ajouté au dossier "Magnets" d'Alldebrid pour une saison complete.
 
