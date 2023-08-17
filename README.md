@@ -148,11 +148,11 @@ sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The M
 >  <summary><b><u>Cliquer sur l'icone noir pour voir:</u></b></summary>
 >  
 > - 🖲️ **[Site Alldebrid (Test 2 Jours)](https://alldebrid.com/register/?from=fr)**
-> - 🖲️ **[Wbmc Clone de Kodi pour test à télécharger)](https://www.wonderbox.tv/wonderbox-tv-media-centre-wbmc/)**
+> - 🖲️ **[Wbmc Clone de Kodi pour test à télécharger](https://www.wonderbox.tv/wonderbox-tv-media-centre-wbmc/)**
 > - 🖲️ **[Ezmaintenanceplus pour la sauvegarde de Kodi](https://github.com/peno64/script.ezmaintenanceplus)**
 > - 🖲️ **[L'Addon Backup pour la sauvegarde de Kodi](https://github.com/robweber/xbmcbackup)**
 > - 🖲️ **[Test de votre debit Wifi](https://www.google.com/search?q=test+debit&client=opera&hs=NvI&sca_esv=557735838&sxsrf=AB5stBjaxgie-0j9qaBefcf4149h-2-DVQ%3A1692264558761&ei=bujdZM-KLsOXhbIPhK-p8Ao&ved=0ahUKEwjP-Y_fsOOAAxXDS0EAHYRXCq4Q4dUDCA4&uact=5&oq=test+debit&gs_lp=Egxnd3Mtd2l6LXNlcnAiCnRlc3QgZGViaXQyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGEcY1gQYsAMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyChAAGIoFGLADGEMyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQEyFhAuGIoFGMcBGNEDGMgDGLADGEPYAQFI9ghQAFgAcAF4AZABAJgBAKABAKoBALgBA8gBAOIDBBgAIEGIBgGQBhG6BgYIARABGAg&sclient=gws-wiz-serp)** 
-> - 🖲️ **[Site officiel "Themoviedb" d'ou les données (Films,Series..sont extraites](https://www.themoviedb.org/?language=frlorsque)**
+> - 🖲️ **[Site officiel "Themoviedb" d'ou les données (Films,Series..) sont extraites](https://www.themoviedb.org/?language=frlorsque)**
 > - 🖲️  **[Addon "The Movie Database Python"](https://github.com/xbmc/metadata.themoviedb.org.python)**
 > - 🖲️ **[Addon "TMDb TV Shows"](https://github.com/xbmc/metadata.tvshows.themoviedb.org.python)**
 > - 🖲️ **[Site "Kodiapps" des Plugins Videos Kodi](https://kodiapps.com/addons-chart)**
