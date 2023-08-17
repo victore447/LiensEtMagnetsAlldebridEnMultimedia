@@ -18,7 +18,10 @@
 - Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours directement dans vos dossiers "films & Series..".
 - ☝️Si votre débit Wifi est faible,vos sources vidéos (Films, Séries,Docs, Sports..) ne doivent pas pesés plus de 4Go pour une visualisation fluide.
 
-### <li>- [x] ETAPE 1 (Si ce n'est déjà fait): </li>
+### <li>- [x] ETAPE 1 (Si ce n'est déjà fait): </li> 
+- Dans Kodi se rendre dans "paramètre/Interface/Cliquer jusqu'au bas de la page & Passer en mode expert/Puis remonter jusqu'à Régions et changer la langue, Clavier & le pays..
+- Revenir dans paramètre puis passer sur services pour les autorisations a activer "/Contrôle/Upnp/Dlna/Airplay" .
+- Revenir dans paramètre et passer à extensions/Installer d'un dépôt/Kodi Add-on repository/Fournisseurs d'informations/Informations de Films/The Movies Database Python/Configurer & Changer la langue etc...Faire de même pour Informations de la Tv/Tmdb Tv Shows/Configurer puis changer la langue,Lecteur etc..
 
 
 
