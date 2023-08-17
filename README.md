@@ -40,13 +40,5 @@ Ou bien vous avez les Addons de sauvegarde **[Backup](https://github.com/robwebe
 
 
 
-### <li>- [x] ETAPE 2: </li>
-
-
-
-### <li>- [x] ETAPE 3: </li>
-
-
-
-### <li>- [x] ETAPE 4: </li>
+cccccccc
 
