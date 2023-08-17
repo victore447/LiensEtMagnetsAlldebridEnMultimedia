@@ -19,9 +19,13 @@
 
 ![Exemple Liens Magnets des Series completes à ajouté au dossier](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/80e4a002-0324-47ba-955e-6c4995f6ce55)
 
-![YGG](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/53ceebe8-f9a5-499e-87e5-6b3afead906a)
-
-![YGG1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/2332310e-31b4-418d-b65a-f9056e9a5444)
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>  <summary><b><u>Cliquer sur l'icone noir pour Plus d'images ci-dessous:</u></b></summary>
+>  
+>  ![YGG](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/53ceebe8-f9a5-499e-87e5-6b3afead906a)
+>  ![YGG1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/2332310e-31b4-418d-b65a-f9056e9a5444)
+></details>
 
 - Avoir des liens Url Uptobox/1fichier etc..des sites pour les placer dans le dossier "links" d'Alldebrid pour les Films (c'est pour ceux qui ne maîtrisent pas ça).
 - Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours directement dans vos dossiers "films & Series..".
