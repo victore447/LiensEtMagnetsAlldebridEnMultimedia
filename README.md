@@ -134,7 +134,6 @@ sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The M
 ><details>
 >  <summary><b><u>Cliquer sur l'icone noir pour voir capture d'écrans Kodi ci-dessous:</u></b></summary> 
 >
->   ![1)Ajout source Films2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/48d9acd3-eddd-49d0-920c-e0fa51178a05)
 >   ![2)Ajoiut Url Alldebrid pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/eb1eda7c-d5b6-40fe-8124-bc3b25eeb686)
 >   ![3)Ne pas Actualier apres l'ajout du Url pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/05648992-39c6-4f44-b767-e3d417d7cbf8)
 >   ![4)Mise a jours de la mediathes pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/54086ebe-42ac-43e8-a4fa-1acbacc4c349)
