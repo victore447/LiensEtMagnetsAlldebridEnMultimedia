@@ -14,7 +14,7 @@
 - Avoir des liens "Magnets"  pour les placer dans le dossier "magnets" d'Alldebrid  afin de les utiliser pour les séries d'Alldebrid.
 - Avoir des liens Url Uptobox/1fichier etc..des sites pour les placer dans le dossier "links" d'Alldebrid pour les Films (c'est pour ceux qui ne maîtrisent pas ça).
 - Creer un reseau locale via vos appareils (Box Shiel Tv etc..) pour faciliter vos mises a jours directement dans vos dossiers "films & Series..".
-- ☝️Si votre débit Wifi est faible,vos sources vidéos (Films, Séries,Docs, Sports..) ne doivent pas pesés plus de 4Go pour une lecture fluide de Films et Séries Tv.
+- ☝️Si votre débit Wifi est faible,vos sources vidéos (Films, Séries,Docs, Sports..) ne doivent pas pesés plus de 4Go pour une visualisation fluide.
 
 ### <li>- [x] ETAPE 1 (Si ce n'est déjà fait): </li>
 
