@@ -130,4 +130,18 @@ films ajouter dans le dossier "Links" d'aldebrid en ligne en s'assurant que les 
 sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The Movies Database Python pour les films (Links)).
 - ☝️ sinon c'est La série chinoise "links click" (2021) qui se charge lorsque l'on fait une mise a jour traditionnel.
 
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>  <summary><b><u>Cliquer sur l'icone noir pour voir capture d'écrans Kodi ci-dessous:</u></b></summary> 
+>
+>   ![1)Ajout source Films2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/48d9acd3-eddd-49d0-920c-e0fa51178a05)
+>   ![2)Ajoiut Url Alldebrid pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/eb1eda7c-d5b6-40fe-8124-bc3b25eeb686)
+>   ![3)Ne pas Actualier apres l'ajout du Url pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/05648992-39c6-4f44-b767-e3d417d7cbf8)
+>   ![4)Mise a jours de la mediathes pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/54086ebe-42ac-43e8-a4fa-1acbacc4c349)
+>   ![5)Mise a jour changer de mode d'analyse](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/2ab31ddd-0382-4a63-b440-8f1fb7724b16)
+>   ![6)Dossiers Videos (Alldebrid,Films,Series Tv)](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/3057b212-9ec0-49e1-b704-48da512f71b4)
+>   ![7)Changer Mode Analyse Films (Links)](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/2c2f3971-b875-44eb-94e4-980c2bdcbdd6)
+>   ![8)Changer Mode Analyse Films (Links)1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/04977f7e-5440-4089-ae25-720a057d3deb)
+>
+></details>
 ### <li>- [x] RECAP DES LIENS DU REPO : </li>
