@@ -1,13 +1,13 @@
 # 🖐️Créez votre médiathèque locale **[Kodi](https://kodi.tv/download/)** "Films & Séries.." via l'url du dossier de compte **[d'Alldebrid](https://alldebrid.fr/)** (Magnets & liens)
 
+![Home Multimédia](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/d5bd6362-c8f8-4111-b89e-152aff972fc5)
+
 ### <li>- [x] DESCRIPTION: </li>
 -  Pouvoir regarder dans **[Kodi](https://kodi.tv/download/)** vos milliers Films,Series tv etc.. stocker dans le dossier D'Alldebrid sans les Plugins videos de **[Kodi](https://kodi.tv/download/)** .
 -  Soulanger votre Disque dur en Go & To avec **[Alldebrid](https://alldebrid.fr/)** sans avoir à télécharger.
 -  Mise a jour rapide de la m-  Pouvoir regarder dans **[Kodi](https://kodi.tv/download/)** vos milliers Films,Series tv etc.. stocker dans le dossier D'Alldebrid sans les Plugins videos de **[Kodi](https://kodi.tv/download/)** .
 -  Soulanger votre Disque dur en Go & To avec **[Alldebrid](https://alldebrid.fr/)** sans avoir à télécharger.
 -  Mise a jour rapide de la mediatheque  **[Kodi](https://kodi.tv/download/)** via Dossiers "Magnets" & "Links" **[d'Alldebrid](https://alldebrid.fr/)** etc.. sans avoir à vous rendre sur le site pour paramétrer quoique ce soit.ediatheque  **[Kodi](https://kodi.tv/download/)** via Dossiers "Magnets" & "Links" **[d'Alldebrid](https://alldebrid.fr/)** etc.. sans avoir à vous rendre sur le site pour paramétrer quoique ce soit.
-
-![Home Multimédia](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/d5bd6362-c8f8-4111-b89e-152aff972fc5)
 
 ### <li>- [x] EXIGENCES : </li> 
 - Avoir un compte premium Alldebrid.
