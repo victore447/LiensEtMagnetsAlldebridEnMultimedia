@@ -5,7 +5,7 @@
 ### <li>- [x] DESCRIPTION: </li>
 ![106](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/acff4463-714a-49de-95a1-a6daea8afae1)
 
--  Pouvoir regarder dans **[Kodi](https://kodi.tv/download/)** vos milliers Films,Series tv etc.. stocker dans le dossier D'Alldebrid sans les Plugins videos de **[Kodi](https://kodi.tv/download/)** .
+-  Pouvoir regarder dans **[Kodi](https://kodi.tv/download/)** vos milliers Films,Series tv etc.. stocker dans le dossier D'Alldebrid sans les Plugins videos de **[Kodi](https://kodi.tv/download/)** qui sont maintenant en majorité obsolètes ou incompatibles.
 -  Soulanger votre Disque dur en Go & To avec **[Alldebrid](https://alldebrid.fr/)** sans avoir à télécharger.
 -  Mise a jour rapide de la m-  Pouvoir regarder dans **[Kodi](https://kodi.tv/download/)** vos milliers Films,Series tv etc.. stocker dans le dossier D'Alldebrid sans les Plugins videos de **[Kodi](https://kodi.tv/download/)** .
 -  Soulanger votre Disque dur en Go & To avec **[Alldebrid](https://alldebrid.fr/)** sans avoir à télécharger.
