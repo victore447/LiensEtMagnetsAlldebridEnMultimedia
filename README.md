@@ -50,11 +50,10 @@ Apres avoir ajouter votre url une fenetre s'ouvre demandant de choisir une categ
 - Puis faire de meme pour le dossiors d'Alldebrid "Magnet et choisir "Tmdb Tv Shows" pour les series.
 - ☝️ Une fois les etapes suivantes (Etape 3 et 4) effectuer de la meme maniere que la présente etape là on se rent dans chaque
 dossier (Alldebrid,Films,Series TV)."Links" pour films et "Magnets" pour Series TV afin d'ouvrir le menu contextuel en cliquant longuement dessus et choisir "rechercher du nouveau contenu".Cela évitera le chargement de la serie asiatique nomé "Links".
+
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
-
-
 ><details>
->  <summary><b><u>Cliquer sur l'icone noir pour Plus d'images ci-dessous:</u></b></summary>
+>  <summary><b><u>Cliquer sur l'icone noir pour voir capture d'écrans Kodi ci-dessous:</u></b></summary>
 >  
 >  ![1)Ajoiut Url Alldebrid](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/51970fe8-e32a-461c-8c20-d916c968842f)
 >  ![2)Ne pas Actualier apres l'ajout du Url Alldebrid](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/538c9de6-9ec3-448e-9c3f-8b164e2aec2f)
