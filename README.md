@@ -90,8 +90,8 @@ puis une fenêtre contextuelle s'ouvre et cliquez sur "Analyser vers la médiath
 Moi je les ignore pour conserver mes infos et clique oui.☝️ Là Kodi via le fournisseur d'infos séries "TMDB TV Shows" récupére 
 la liste des épisodes placer dans Le Dossier  "Magnets" d'Alldebrid en les copiant.Enfin il n'y à plus qu'à ce rendre dans la médiatheque Kodi des séries pour visionner.
 - ☝️ Il faut effectuer toujours cette méthode pour la mise à jour de la médiathèque kodi pour chaque 
-séries ajouter dans le dossier magnet d'aldebrid en ligne en s'assurant que les modes d'analyse des dossiers sont sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The Movies Database Python pour les films (Links))
-☝️ sinon c'est La série chinoise "links click" (2021) qui se charge lorsque l'on fait une mise a jour traditionnel.
+séries ajouter dans le dossier magnet d'aldebrid en ligne en s'assurant que les modes d'analyse des dossiers sont sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The Movies Database Python pour les films (Links)).
+- ☝️ sinon c'est La série chinoise "links click" (2021) qui se charge lorsque l'on fait une mise a jour traditionnel.
 
 
 
