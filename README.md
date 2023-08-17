@@ -41,8 +41,31 @@ Ou bien vous avez les Addons de sauvegarde **[Backup](https://github.com/robwebe
 
 
 ### <li>- [x] 📁 ETAPE 2: </li>
+- Pour ajouter l'url alldebrid du dossier de votre compte à Kodi,vous rendre sur le menu kodi,videos,ajouter une source.
+Apres avoir ajouter votre url une fenetre s'ouvre demandant de choisir une categorie (Aucun,Films,Series TV).
+☝️ Choisier aucun.☝️ Et ne pas actualiser la mediatheqe pour l'instant lorsque Kodi le demande (car c'est une serie nomé "Links" qui sera peut etre chargé)(images joints).
+- Avant la mise a jour Vous rendre ensuite dans votre dossier "Alldebrid" que vous venez de Creer. 
+- puis un appuis long sur "Link" un menu contextuel s'ouvre puis cliquer sur "Changer le Mode d"analyse" et Choisir 
+'The Movies Database Python' evoquer à la étape 1.
+- Puis faire de meme pour le dossiors d'Alldebrid "Magnet et choisir "Tmdb Tv Shows" pour les series.
+- ☝️ Une fois les etapes suivantes (Etape 3 et 4) effectuer de la meme maniere que la présente etape là on se rent dans chaque
+dossier (Alldebrid,Films,Series TV)."Links" pour films et "Magnets" pour Series TV afin d'ouvrir le menu contextuel en cliquant longuement dessus et choisir "rechercher du nouveau contenu".Cela évitera le chargement de la serie asiatique nomé "Links".
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 
 
+><details>
+>  <summary><b><u>Cliquer sur l'icone noir pour Plus d'images ci-dessous:</u></b></summary>
+>  
+>  ![1)Ajoiut Url Alldebrid](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/51970fe8-e32a-461c-8c20-d916c968842f)
+>  ![2)Ne pas Actualier apres l'ajout du Url Alldebrid](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/538c9de6-9ec3-448e-9c3f-8b164e2aec2f)
+>  ![3)Dossiers Videos (Alldebrid,Films,Series Tv)](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/e1fde76f-f037-4141-bbb1-3a09c406e56d)
+>  ![4)Changer Mode Analyse Films (Links)](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/a71cfa82-d9d0-409f-9c24-aaa2caa8fa84)
+> ![5)Changer Mode Analyse Films (Links)1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/efed1517-32ee-4674-a606-eabfc4d7c642)
+>  ![6)Mise a jours de la mediathes pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/6bb7fed0-8b61-4653-875e-02602cee25c7)
+>  ![7)Mise a jour changer de mode d'analyse](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/277782a7-276e-45d2-8d0f-0f3fda6ef2af)
+
+>
+></details>
 
 ### <li>- [x] 📺 ETAPE 3: </li>
 
