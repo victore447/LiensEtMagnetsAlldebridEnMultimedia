@@ -41,9 +41,9 @@ Ou bien vous avez les Addons de sauvegarde **[Backup](https://github.com/robwebe
 
 
 ### <li>- [x] 📁 ETAPE 2: </li>
-- Pour ajouter l'url alldebrid du dossier de votre compte à Kodi,vous rendre sur le menu kodi,videos,ajouter une source.
+- Pour ajouter l'url alldebrid du dossier de votre compte à Kodi,vous rendre sur le menu kodi,videos/ajouter une source.
 Apres avoir ajouter votre url une fenetre s'ouvre demandant de choisir une categorie (Aucun,Films,Series TV).
-☝️ Choisier aucun.☝️ Et ne pas actualiser la mediatheqe pour l'instant lorsque Kodi le demande (car c'est une serie nomé "Links" qui sera peut etre chargé)(images joints).
+☝️ Choisier aucun.☝️ Et ne pas actualiser la mediatheqe pour l'instant lorsque Kodi le demande (car c'est une serie nomé "Links" qui sera peut etre chargé).
 - Avant la mise a jour Vous rendre ensuite dans votre dossier "Alldebrid" que vous venez de Creer. 
 - puis un appuis long sur "Link" un menu contextuel s'ouvre puis cliquer sur "Changer le Mode d"analyse" et Choisir 
 'The Movies Database Python' evoquer à la étape 1.
