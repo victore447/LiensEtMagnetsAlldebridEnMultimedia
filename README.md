@@ -109,6 +109,25 @@ séries ajouter dans le dossier magnet d'aldebrid en ligne en s'assurant que les
 ></details>
 
 ### <li>- [x] 🎬 ETAPE 4: </li>
-
+- Comme évoqué plus haut répéter la meme procédure que l’étape 3 mais en ajoutant cette fois si l’url de 
+votre dossier Alldebrid Pour la mediatheque des Films de kodi.
+- Les Url Uptobox,1fichiers etc..sont à prendre sur les sites tel que Darkino,Zone-Telechargement etc..(capture ecran plus haut dans rebrique « Exigences ».
+- Si votre médiatheque est vide (c'est mieux) ajouter l'url Alldebrid du dossier de votre compte en vous rendant sur kodi,Films/section des fichiers/ajouter une source..  
+- ☝️Ne pas actualiser la médiathqe lorsque kodi le demande (il les infos Tmdb de la série asiatique "Links").
+- Avant la mise à jour Vous rendre ensuite dans votre dossier "Alldebrid" que vous venez de Crée puis un appuis long sur 
+"Links" un menu contextuel s'ouvre puis cliquer sur "Changer le Mode d"analyse" et Choisir "The Movies Database Python" si sela n'est pas fais.
+- Il ne vous reste plus qu'a vous rendre dans votre dossier Films creer puis "Links" etc..
+- Là faire Un clic long sur "Links" ,lorsque le menu contextuel s'ouvre il faut ensuite cliquer sur 
+"rechercher du nouveau contenu".Là Kodi via l'addon "The Movies Database Python" récupere tous vos films en ligne du dossier d'Alldebrid.
+- ☝️ Pour une mise à jour film par film que vous ajouté,se rendre dans vos Films que avez ajouter au dossier "Links" d'Alldebrid dans Kodi,
+faire Un clic long sur le film récemment ajouté puis une fenêtre contextuelle s'ouvre et cliquez sur "Analyser vers la médiathèque" et une fenêtre s'ouvre en demandant 
+"Saisir le nom du films).☝️ Écrire le nom du film et son année de création (XXX (2023) puis ok (infos des medias sur themoviedb.org ).Voir 📸 joints.
+- Une autre fenêtre s'ouvre ensuite pour demander si il faut ignorer ou pas des informations existant localement.
+Moi je les ignore pour conserver mes infos et clique oui.☝️ Là Kodi via le fournisseur d'infos Films "The Movies Database Python" 
+récupére le Film est les infos d'Alldebrid en le copiant.Enfin il n'y a plus qu'à ce rendre dans la médiatheque Kodi "Films" pour visionner.
+- ☝️ Il faut effectuer toujours cette méthode ensuite lorsque vous ajouté un film pour la mise à jour de la médiathèque kodi pour chaque 
+films ajouter dans le dossier "Links" d'aldebrid en ligne en s'assurant que les modes d'analyse des dossiers sont 
+sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The Movies Database Python pour les films (Links)).
+- ☝️ sinon c'est La série chinoise "links click" (2021) qui se charge lorsque l'on fait une mise a jour traditionnel.
 
 ### <li>- [x] RECAP DES LIENS DU REPO : </li>
