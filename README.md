@@ -98,4 +98,4 @@ séries ajouter dans le dossier magnet d'aldebrid en ligne en s'assurant que les
 ### <li>- [x] 🎬 ETAPE 4: </li>
 
 
-### <li>- [x] RECAP DES LIEN DU REPO : </li>
+### <li>- [x] RECAP DES LIENS DU REPO : </li>
