@@ -7,7 +7,7 @@
 
 -  Pouvoir regarder dans **[Kodi](https://kodi.tv/download/)** vos milliers Films,Series tv etc.. stocker dans le dossier D'Alldebrid sans les Plugins videos de **[Kodi](https://kodi.tv/download/)** qui sont maintenant en majorité obsolètes ou incompatibles.
 -  Soulanger votre Disque dur en Go & To avec **[Alldebrid](https://alldebrid.fr/)** sans avoir à télécharger.
--  Mise a jour rapide de la m-  Pouvoir regarder dans **[Kodi](https://kodi.tv/download/)** vos milliers Films,Series tv etc.. stocker dans le dossier D'Alldebrid sans les Plugins videos de **[Kodi](https://kodi.tv/download/)** .
+-  Mise a jour rapide de la mediatheque locale pour regarder dans **[Kodi](https://kodi.tv/download/)** vos milliers Films,Series tv etc.. stocker dans le dossier D'Alldebrid sans les Plugins videos de **[Kodi](https://kodi.tv/download/)** .
 -  Soulanger votre Disque dur en Go & To avec **[Alldebrid](https://alldebrid.fr/)** sans avoir à télécharger.
 -  Mise a jour rapide de la mediatheque  **[Kodi](https://kodi.tv/download/)** via Dossiers "Magnets" & "Links" **[d'Alldebrid](https://alldebrid.fr/)** etc.. sans avoir à vous rendre sur le site pour paramétrer quoique ce soit.ediatheque  **[Kodi](https://kodi.tv/download/)** via Dossiers "Magnets" & "Links" **[d'Alldebrid](https://alldebrid.fr/)** etc.. sans avoir à vous rendre sur le site pour paramétrer quoique ce soit.
 
