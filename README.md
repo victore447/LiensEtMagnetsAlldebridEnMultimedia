@@ -141,6 +141,23 @@ faire Un clic long sur le film récemment ajouté puis une fenêtre contextuelle
 - Une autre fenêtre s'ouvre ensuite pour demander si il faut ignorer ou pas des informations existant localement.
 Moi je les ignore pour conserver mes infos et clique oui.☝️ Là Kodi via le fournisseur d'infos Films "The Movies Database Python" 
 récupére le Film est les infos d'Alldebrid en le copiant.Enfin il n'y a plus qu'à ce rendre dans la médiatheque Kodi "Films" pour visionner.
+
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
+><details>
+>  <summary><b><u>📸Cliquer sur l'icone noir pour voir capture écrans de l'interface Alldebrid:</u></b></summary>
+>  
+>  ![Analyser vers la mediatheque (Films)](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/3d0f0519-f0b4-40c5-b209-5f89778c210a)
+>  ![Analyser vers la mediatheque (Films)2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/441f414f-bbba-4d16-993b-8cbec83ccd2f)
+>  ![Analyser vers la mediatheque (Films)3](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/929833d5-a421-4917-9c9f-28ccc3bcdf1b)
+>  ![Analyser vers la mediatheque (Films)4](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/202d7385-4779-4c47-b722-ad9cbdc51602)
+>  ![Analyser vers la mediatheque (Films)5](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/b5efa728-4514-4a92-a8da-48a5eb777f9c)
+>  ![6Analyser vers la mediatheque (Films)6](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/397390c6-8c95-4716-b68c-ecc69344d54e)
+>  ![6Analyser vers la mediatheque (Films)7](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/848fe592-d2eb-4e47-acab-dbf3e2857bcc)
+>  ![6Analyser vers la mediatheque (Films)8](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/80689a55-f153-4262-bef2-479f2a172e60)
+>  ![6Analyser vers la mediatheque (Films)9](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/28984a73-ce0e-4cd5-b0e6-c9ab42db4452)
+>
+></details>
+
 - ☝️ Il faut effectuer toujours cette méthode ensuite lorsque vous ajouté un film pour la mise à jour de la médiathèque kodi pour chaque 
 films ajouter dans le dossier "Links" d'aldebrid en ligne en s'assurant que les modes d'analyse des dossiers sont 
 sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The Movies Database Python pour les films (Links)).
