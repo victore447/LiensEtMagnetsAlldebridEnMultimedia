@@ -89,6 +89,7 @@ puis une fenêtre contextuelle s'ouvre et cliquez sur "Analyser vers la médiath
 - Une autre fenêtre s'ouvre ensuite pour demander si il faut ignorer ou pas des informations existant localement.
 Moi je les ignore pour conserver mes infos et clique oui.☝️ Là Kodi via le fournisseur d'infos séries "TMDB TV Shows" récupére 
 la liste des épisodes placer dans Le Dossier  "Magnets" d'Alldebrid en les copiant.Enfin il n'y à plus qu'à ce rendre dans la médiatheque Kodi des séries pour visionner.
+![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
 >  <summary><b><u>Cliquer sur l'icone noir pour Voir 📸 joints:</u></b></summary> 
 >
