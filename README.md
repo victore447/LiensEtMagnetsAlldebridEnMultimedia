@@ -160,3 +160,9 @@ sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The M
 ></details>
 
 ### <li>- [x] 👌 Mettre une star si ça été intéressant✔️ </li>
+
+[![Watch the video](https://img.youtube.com/vi/<5O2zutYrax4>/hqdefault.jpg)](https://www.youtube.com/embed/<5O2zutYrax4>)
+
+[<img src="https://img.youtube.com/vi/<5O2zutYrax4>/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/<5O2zutYrax4>)
+
