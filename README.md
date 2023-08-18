@@ -35,7 +35,7 @@ Ou bien vous avez les Addons de sauvegarde **[Backup](https://github.com/robwebe
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>Cliquer sur l'icone noir pour Plus d'images ci-dessous:</u></b></summary>
+>  <summary><b><u>📸 Cliquer sur l'icone noir pour voir :</u></b></summary>
 >  
 >  ![YGG](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/53ceebe8-f9a5-499e-87e5-6b3afead906a)
 >  ![YGG1](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/2332310e-31b4-418d-b65a-f9056e9a5444)
