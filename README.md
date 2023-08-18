@@ -137,7 +137,7 @@ votre dossier Alldebrid Pour la mediatheque des Films de kodi.
 "rechercher du nouveau contenu".Là Kodi via l'addon "The Movies Database Python" récupere tous vos films en ligne du dossier d'Alldebrid.
 - ☝️ Pour une mise à jour film par film que vous ajouté,se rendre dans vos Films que avez ajouter au dossier "Links" d'Alldebrid dans Kodi,
 faire Un clic long sur le film récemment ajouté puis une fenêtre contextuelle s'ouvre et cliquez sur "Analyser vers la médiathèque" et une fenêtre s'ouvre en demandant 
-"Saisir le nom du films).☝️ Écrire le nom du film et son année de création (XXX (2023)) puis ok (**[Infos extraites sur Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)** ).Voir 📸 joints.
+"Saisir le nom du films).☝️ Écrire le nom du film et son année de création (XXX (2023)) puis ok (**[Infos extraites sur Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)** ).
 - Une autre fenêtre s'ouvre ensuite pour demander si il faut ignorer ou pas des informations existant localement.
 Moi je les ignore pour conserver mes infos et clique oui.☝️ Là Kodi via le fournisseur d'infos Films "The Movies Database Python" 
 récupére le Film est les infos d'Alldebrid en le copiant.Enfin il n'y a plus qu'à ce rendre dans la médiatheque Kodi "Films" pour visionner.
@@ -148,7 +148,7 @@ sur le bon fournisseurs d'infos (TMDB tv Shows pour les series (Magnets) & The M
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>📸 Cliquer sur l'icone noir Kodi ci-dessous:</u></b></summary> 
+>  <summary><b><u>📸 Cliquer sur l'icone noir pour voir Kodi ci-dessous:</u></b></summary> 
 >
 >   ![2)Ajoiut Url Alldebrid pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/eb1eda7c-d5b6-40fe-8124-bc3b25eeb686)
 >   ![3)Ne pas Actualier apres l'ajout du Url pour Films](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/05648992-39c6-4f44-b767-e3d417d7cbf8)
