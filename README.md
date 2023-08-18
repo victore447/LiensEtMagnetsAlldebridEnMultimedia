@@ -144,7 +144,7 @@ récupére le Film est les infos d'Alldebrid en le copiant.Enfin il n'y a plus q
 
 ![46](https://github.com/victore447/FilmsSeriesStrmdanskodi/assets/48101775/caa9e727-800b-4827-a780-9684462ccf19)
 ><details>
->  <summary><b><u>📸Cliquer sur l'icone noir pour voir capture écrans de l'interface Alldebrid:</u></b></summary>
+>  <summary><b><u>📸Cliquer sur l'icone noir pour voir Kodi:</u></b></summary>
 >  
 >  ![Analyser vers la mediatheque (Films)](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/3d0f0519-f0b4-40c5-b209-5f89778c210a)
 >  ![Analyser vers la mediatheque (Films)2](https://github.com/victore447/LiensEtMagnetsAlldebridEnMultimedia/assets/48101775/441f414f-bbba-4d16-993b-8cbec83ccd2f)
