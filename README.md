@@ -85,7 +85,7 @@ kodi,series tv,section des fichiers,ajouter une source.
 - Il ne vous reste plus qu'a vous rendre dans votre dossier Series Tv creer puis magnets etc..
 Dans vos séries que avez ajouter au dossier "Magnets" d'Alldebrid en ligne,faire Un clic long sur chaque série (une par une) 
 puis une fenêtre contextuelle s'ouvre et cliquez sur "Analyser vers la médiathèque" et si une fenêtre s'ouvre en demandant 
-"Saisir le nom de la série tv) Écrire le nom de la série et son année de création (Ex: FUBAR (2023) puis ok ((**[Sources Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)** ).Voir 📸 joints.
+"Saisir le nom de la série tv) Écrire le nom de la série et son année de création (Ex: FUBAR (2023)) puis ok ((**[Sources Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)** ).Voir 📸 joints.
 - Une autre fenêtre s'ouvre ensuite pour demander si il faut ignorer ou pas des informations existant localement.
 Moi je les ignore pour conserver mes infos et clique oui.☝️ Là Kodi via le fournisseur d'infos séries "TMDB TV Shows" récupére 
 la liste des épisodes placer dans Le Dossier  "Magnets" d'Alldebrid en les copiant.Enfin il n'y à plus qu'à ce rendre dans la médiatheque Kodi des séries pour visionner.
@@ -121,7 +121,7 @@ votre dossier Alldebrid Pour la mediatheque des Films de kodi.
 "rechercher du nouveau contenu".Là Kodi via l'addon "The Movies Database Python" récupere tous vos films en ligne du dossier d'Alldebrid.
 - ☝️ Pour une mise à jour film par film que vous ajouté,se rendre dans vos Films que avez ajouter au dossier "Links" d'Alldebrid dans Kodi,
 faire Un clic long sur le film récemment ajouté puis une fenêtre contextuelle s'ouvre et cliquez sur "Analyser vers la médiathèque" et une fenêtre s'ouvre en demandant 
-"Saisir le nom du films).☝️ Écrire le nom du film et son année de création (XXX (2023) puis ok (**[Infos extraites sur Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)** ).Voir 📸 joints.
+"Saisir le nom du films).☝️ Écrire le nom du film et son année de création (XXX (2023)) puis ok (**[Infos extraites sur Themoviedb.org](https://www.themoviedb.org/?language=frlorsque)** ).Voir 📸 joints.
 - Une autre fenêtre s'ouvre ensuite pour demander si il faut ignorer ou pas des informations existant localement.
 Moi je les ignore pour conserver mes infos et clique oui.☝️ Là Kodi via le fournisseur d'infos Films "The Movies Database Python" 
 récupére le Film est les infos d'Alldebrid en le copiant.Enfin il n'y a plus qu'à ce rendre dans la médiatheque Kodi "Films" pour visionner.
