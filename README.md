@@ -9,7 +9,7 @@
 -  Soulanger votre Disque dur en Go & To avec **[Alldebrid](https://alldebrid.fr/)** sans avoir à télécharger.
 -  Mise a jour rapide de la mediatheque locale pour regarder dans **[Kodi](https://kodi.tv/download/)** vos milliers Films,Series tv etc.. stocker dans le dossier D'Alldebrid sans les Plugins videos de **[Kodi](https://kodi.tv/download/)** .
 -  Soulanger votre Disque dur en Go & To avec **[Alldebrid](https://alldebrid.fr/)** sans avoir à télécharger.
--  Mise a jour rapide de la mediatheque  **[Kodi](https://kodi.tv/download/)** via Dossiers "Magnets" & "Links" **[d'Alldebrid](https://alldebrid.fr/)** etc.. sans avoir à vous rendre sur le site pour paramétrer quoique ce soit.ediatheque  **[Kodi](https://kodi.tv/download/)** via Dossiers "Magnets" & "Links" **[d'Alldebrid](https://alldebrid.fr/)** etc.. sans avoir à vous rendre sur le site pour paramétrer quoique ce soit.
+-  Mise a jour rapide de la mediatheque  **[Kodi](https://kodi.tv/download/)** via Dossiers "Magnets" & "Links" **[d'Alldebrid](https://alldebrid.fr/)** etc.. sans avoir à vous rendre sur le site pour paramétrer quoique ce soit **[Kodi](https://kodi.tv/download/)** via Dossiers "Magnets" & "Links" **[d'Alldebrid](https://alldebrid.fr/)** etc.. sans avoir à vous rendre sur le site pour paramétrer quoique ce soit.
 
 ### <li>- [x] EXIGENCES : </li> 
 - Avoir un **[👉 compte premium Alldebrid](https://alldebrid.com/offer/)** **[(👉 Test gratui 2 jourst)](https://alldebrid.com/register/?from=fr)**
